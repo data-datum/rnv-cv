@@ -14,7 +14,7 @@ event: Academic Theme Conference
 event_url: https://www.eventbrite.es/e/entradas-primer-encuentro-de-r-en-el-nea-81623396777#
 featured: true
 image:
-  caption: 'Image credit: [**R en el Nordeste**]("C:/Users/Roxana/rnv-cv/content/talk/R en el Nordeste/conv-talk.jpeg")'
+  caption: 'Image credit: [**R en el Nordeste**]("conv-talk.jpeg")'
   focal_point: Right
 links:
 - icon: twitter
@@ -28,7 +28,7 @@ slides:
 summary: A talk about Machine Learning and Khipu.ai 2019 conference.
 tags: [machine learning, R, khipu.ai]
 title: Machine Learning with R & Khipu.ai 2019
-url_pdf: "C:/Users/Roxana/rnv-cv/content/talk/R en el nordeste/ml-con-R2.pdf"
+url_pdf: "ml-con-R2.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/machine-learning-con-r-r-en-el-nordeste"
 ---
 

@@ -28,7 +28,7 @@ summary: A talk at RLadies Resistencia Corrientes meetup.
 tags: []
 title: Data Manipulation with dplyr
 url_code: "https://github.com/data-datum/2019-dplyr-tips-tricks"
-url_pdf: "C:/Users/Roxana/rnv-cv/content/talk/Manipulación de datos/dplyr-tutorial.pdf"
+url_pdf: "Manipulación de datos/dplyr-tutorial.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/data-manipulation-with-dplyr-rladies-talk"
 ---
 

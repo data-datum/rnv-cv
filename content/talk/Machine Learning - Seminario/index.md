@@ -24,7 +24,7 @@ slides:
 summary: Talk about Machine Learning at LEMyP.
 tags: []
 title: Machine Learning Seminario
-url_pdf: "C:/Users/Roxana/rnv-cv/content/talk/Machine Learning - Seminario/Machine Learning2 - seminario.pdf"
+url_pdf: "Machine Learning2 - seminario.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/machine-learning-seminario"
 ---
 
