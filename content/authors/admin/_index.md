@@ -41,8 +41,9 @@ social:
 - icon: speaker-deck
   icon_pack: fab
   link: https://speakerdeck.com/noelia0618
-  
-  
+- icon: reddit-alien
+  icon_pack: fab
+  link: https://www.reddit.com/user/data_datum 
   
 
 superuser: true
