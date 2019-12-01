@@ -14,7 +14,7 @@ event: Academic Theme Conference
 event_url: https://www.eventbrite.es/e/entradas-primer-encuentro-de-r-en-el-nea-81623396777#
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**R en el Nordeste**]("C:/Users/Roxana/rnv-cv/content/talk/R en el Nordeste/conv-talk.jpeg")'
   focal_point: Right
 links:
 - icon: twitter
