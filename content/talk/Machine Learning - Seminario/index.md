@@ -8,7 +8,7 @@ address:
   street: Av. Libertad 5450
 all_day: false
 authors: []
-date: "2019-05-13T13:00:00Z"
+date: "2019-05-13"
 date_end: "2019-05-13T15:00:00Z"
 event: Academic Theme Conference
 event_url: 
@@ -19,7 +19,7 @@ image:
 links:
 location: IQUIBA-NEA HQ
 math: true
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01"
 slides: 
 summary: Talk about Machine Learning at LEMyP.
 tags: []

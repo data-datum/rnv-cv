@@ -8,8 +8,8 @@ address:
   street: 
 all_day: false
 authors: []
-date: "2019-08-22T13:00:00Z"
-date_end: "2019-08-22T15:00:00Z"
+date: "2019-08-22"
+date_end: "2019-08-22"
 event: Academic Theme Conference
 event_url: https://www.meetup.com/rladies-resistencia-corrientes/events/263055088/
 featured: true
