@@ -65,3 +65,6 @@ subtitle = "Recent Posts"
  # CSS class.
  css_class = ""
 +++
+
+
+{{< medium_posts >}}
