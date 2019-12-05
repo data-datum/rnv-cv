@@ -28,7 +28,7 @@ tags:
 title: Brown rice authenticity evaluation by spark discharge-laser-induced breakdown spectroscopy
 url_code: ""
 url_dataset: ""
-url_pdf: "brown-FC.pdf"
+url_pdf: "files/brown-FC.pdf"
 url_poster: ""
 url_project: ""
 url_slides: ""
