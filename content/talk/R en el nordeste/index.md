@@ -28,7 +28,7 @@ slides:
 summary: A talk about Machine Learning and Khipu.ai 2019 conference.
 tags: [machine learning, R, khipu.ai]
 title: Machine Learning with R & Khipu.ai 2019
-url_pdf: "![](/static/post/ml-con-R2.pdf)"
+url_pdf: "files/ml-con-R2.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/machine-learning-con-r-r-en-el-nordeste"
 ---
 
