@@ -35,6 +35,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=KQvNGicAAAAJ&hl=es
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Roxana_Noelia_Villafane
 - icon: github
   icon_pack: fab
   link: https://github.com/data-datum
