@@ -63,7 +63,7 @@ Following that objective, I work with data analysis & machine learning.
 
 I'm a Rladies chapter co-founder and co-organizer: *Rladies Resistencia Corrientes*, co-founder and co-organizer of a R user's group (RUG) at my local area called *R-en-el-NEA*, and one of the organizers of latinoamerican R Conference, *LatinR*. 
 
-Also, I am an #rstats Professor at Facultad de Ciencias Agrarias (UNNE), creating new material with R programming for undergrad stats course. 
+Also, I am an #rstats teacher assistant at Facultad de Ciencias Agrarias (UNNE), creating new material with R programming for undergrad stats course. 
 
 
 
