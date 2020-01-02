@@ -61,7 +61,7 @@ user_groups:
 I am a postdoc researcher at Laboratorio de Estructura Molecular y Propiedades (LEMyP) at CONICET. I try to understand the inhibition mechanism of Cruzain, a cysteine protease involved in Chagas disease. 
 Following that objective, I work with data analysis & machine learning. 
 
-I'm a Rladies chapter founder and organizer: *Rladies Resistencia Corrientes*, a R user's group (RUG) at my local area called *R-en-el-NEA* co-founder and co-organizer, and one of the organizers of latinoamerican R Conference, *LatinR*. 
+I'm a Rladies chapter co-founder and co-organizer: *Rladies Resistencia Corrientes*, co-founder and co-organizer of a R user's group (RUG) at my local area called *R-en-el-NEA*, and one of the organizers of latinoamerican R Conference, *LatinR*. 
 
 Also, I am an #rstats Professor at Facultad de Ciencias Agrarias (UNNE), creating new material with R programming for undergrad stats course. 
 
