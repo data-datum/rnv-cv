@@ -63,7 +63,7 @@ Following that objective, I work with data analysis & machine learning.
   
 Due to Covid19 quarentine, I was involved in two projects: one related to Covid19 spread in  Argentina, and the other one related to online teaching called [*Metadocencia*](https://metadocencia.netlify.app/).   
 
-I'm a Rladies chapter co-founder and co-organizer: [*Rladies Resistencia Corrientes*](https://twitter.com/RLadies_rciacte), co-founder and co-organizer of a R user's group (RUG) at my local area called [*R-en-el-NEA*](https://renelnea.github.io/web/), and one of the organizers of latinoamerican R Conference, [*LatinR*](https://latin-r.com/). Also, I was part of the Spanish translation of [*R for data science*](https://es.r4ds.hadley.nz/)
+I'm a Rladies chapter co-founder and co-organizer: [*Rladies Resistencia Corrientes*](https://twitter.com/RLadies_rciacte), co-founder and co-organizer of a R user's group (RUG) at my local area called [*R-en-el-NEA*](https://renelnea.github.io/web/), and one of the organizers of latinoamerican R Conference, [*LatinR*](https://latin-r.com/). Also, I was part of the Spanish translation of [*R for data science*](https://es.r4ds.hadley.nz/) with other friends part of the R community. 
 
 Also, I am an #rstats teacher assistant at Facultad de Ciencias Agrarias (UNNE), creating new material with R programming for an undergrad stats course, [*Probability and Statistics*](https://github.com/industrial-prob-stats). 
 
