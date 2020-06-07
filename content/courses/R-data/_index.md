@@ -15,19 +15,29 @@ weight: 1
 ---
 
 For more information you can visit this [link](https://flor14.github.io/Curso_r_unne_2020/)
+This course was held with [Florencia D'Andrea](https://twitter.com/cantoflor_87) and [Patricia Loto](https://twitter.com/patriloto) was the assistant teacher.
+The course was in Spanish. 
 
 # Programación en R para análisis de datos :bar_chart: :chart_with_upwards_trend: :chart_with_downwards_trend:
 
 ## Tema 1 :computer: :package: :file_folder: 
 Generalidades y nociones de programación. R e interfaz de Rstudio. Trabajo con proyectos. Paquetes. Programación orientada a objetos. Cómo obtener ayuda. Tipos de datos. Acceso a los elementos de los diferentes tipos de datos. Funciones. Estructuras de control. Programación modelo tidyverse y uso del operador %>%. Nociones de programación funcional y uso del paquete purrr. Ejercicios de aplicación
+[Link](https://flor14.github.io/intro_r/intro_r.html#1)
 ## Tema 2 :wrench:
 Manipulación de datos. Ingreso de datos. Datos ordenados (tidy data). Paquetes tidyr y dplyr. Funciones select(), filter(), mutate(), summarise(), arrange(), group_by(). Otras funciones de dplyr. Ejercicios de aplicación
+[Link-1]
+[Link-2]
+[Link-3]
 ## Tema 3 :bar_chart: :chart_with_upwards_trend: 
 Visualización de datos. Visualización efectiva. Función plot() y qplot(). Gramática de gráficos. Paquete ggplot2. Capas de un gráfico: datos, parámetros estéticos,  parámetros geométricos, uso de facets, estadísticas, coordenadas, temas.  Ejercicios de aplicación. Breve introducción a la visualización interactiva con el paquete Plotly y a web-apps con el paquete Shiny. Mapas.
+[Link-1](https://flor14.github.io/visualizacion_2020/visualizacion#1)
+[Ejercicios](https://flor14.github.io/Curso_r_unne_2020/practica_vis_funciona.html)
 ## Tema 4 :chart_with_upwards_trend:
-Modelización.  Generalidades de la modelización de datos. Nociones de regresión y clasificación. Ejercicios de aplicación. Uso del paquetes para modelización de datos en tidymodels.  
+Modelización.  Generalidades de la modelización de datos. Nociones de regresión y clasificación. Ejercicios de aplicación. Uso del paquetes para modelización de datos en tidymodels. 
+[Link]  
 ## Tema 5 :notebook: :microscope: :page_facing_up:
 Documentación y ciencia reproducible. El camino hacia la ciencia reproducible: algunas prácticas deseables al momento de generar código para nuestras publicaciones. Reportes en RMarkdown y una introducción al control de versiones. Comunidades de usuarios.
+[Link]
 
 # Bibliografía :books:
 
