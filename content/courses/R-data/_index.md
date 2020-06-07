@@ -17,6 +17,8 @@ weight: 1
 For more information you can visit this [link](https://flor14.github.io/Curso_r_unne_2020/).
 This course was held with [Florencia D'Andrea](https://twitter.com/cantoflor_87) and [Patricia Loto](https://twitter.com/patriloto) was the assistant teacher.
 The course was taught in Spanish. 
+
+[University Resolution](https://github.com/data-datum/rnv-cv/blob/master/static/files/RES_11029-19_Curso_PROGRAMACION_EN_R.pdf)
   
 ### Programación en R para análisis de datos 
 
