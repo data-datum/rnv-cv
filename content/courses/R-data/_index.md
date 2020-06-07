@@ -6,7 +6,7 @@ linktitle: R para análisis de datos
 menu:
   example:
     name: Overview
-    weight: 1
+    weight: 2
 summary: A graduate course at Facultad de Ciencias Agrarias (UNNE)
 title: Overview
 toc: true
