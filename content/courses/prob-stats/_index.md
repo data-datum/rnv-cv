@@ -5,7 +5,7 @@ lastmod: "2020-06-06T00:00:00Z"
 linktitle: Probabilidad y Estadística
 menu:
   example:
-    name: Overview
+    name: Probabilidad y Estadística
     weight: 1
 summary: An undergrad course at Facultad de Ciencias Agrarias (UNNE)
 title: Overview

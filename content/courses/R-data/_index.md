@@ -5,7 +5,7 @@ lastmod: "2020-06-06T00:00:00Z"
 linktitle: R para análisis de datos 
 menu:
   example:
-    name: Overview
+    name: R para análisis de datos
     weight: 1
 summary: A graduate course at Facultad de Ciencias Agrarias (UNNE)
 title: Overview
