@@ -53,3 +53,4 @@ Documentación y ciencia reproducible. El camino hacia la ciencia reproducible: 
 * Xie Y; Allaire J.J., Grolemund G. (2019) R Markdown: The Definitive Guide. CRC Press. Disponible en https://bookdown.org/yihui/rmarkdown
 * Zumel, N., Mount, J. (2016) Practical Data Science with R. Manning Publications. 
 
+    
