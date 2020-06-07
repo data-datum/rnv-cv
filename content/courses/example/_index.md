@@ -13,6 +13,5 @@ toc: true
 type: docs
 weight: 1
 ---
-
-
+  
 For more information you can visit our public repo [Probability and Statistics](https://github.com/industrial-prob-stats) 

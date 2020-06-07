@@ -1,12 +1,12 @@
 ---
-date: "2020-02-0  9T00:00:00Z"
+date: "2020-02-17T00:00:00Z"
 draft: false
-lastmod: "2018-09-09T00:00:00Z"
-linktitle: R para análisis de datos
+lastmod: "2020-06-06T00:00:00Z"
+linktitle: R para análisis de datos 
 menu:
   example:
     name: Overview
-    weight: 2
+    weight: 1
 summary: A graduate course at Facultad de Ciencias Agrarias (UNNE)
 title: Overview
 toc: true
@@ -14,7 +14,7 @@ type: docs
 weight: 2
 ---
 
-# For more information you can visit this [link](https://flor14.github.io/Curso_r_unne_2020/)
+For more information you can visit this [link](https://flor14.github.io/Curso_r_unne_2020/)
 
 # Programación en R para análisis de datos :bar_chart: :chart_with_upwards_trend: :chart_with_downwards_trend:
 
@@ -53,6 +53,3 @@ Documentación y ciencia reproducible. El camino hacia la ciencia reproducible: 
 * Xie Y; Allaire J.J., Grolemund G. (2019) R Markdown: The Definitive Guide. CRC Press. Disponible en https://bookdown.org/yihui/rmarkdown
 * Zumel, N., Mount, J. (2016) Practical Data Science with R. Manning Publications. 
 
-
-
-For more information you can visit our public repo [Probability and Statistics](https://github.com/industrial-prob-stats) 
