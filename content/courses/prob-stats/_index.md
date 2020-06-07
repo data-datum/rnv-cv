@@ -14,4 +14,7 @@ type: docs
 weight: 1
 ---
   
-For more information you can visit our public repo [Probability and Statistics](https://github.com/industrial-prob-stats) 
+For more information you can visit our public repo [Probability and Statistics](https://github.com/industrial-prob-stats) or visit our [Youtube channel](https://www.youtube.com/channel/UCZp-9gLD4Qohn1wNv5jfoNw?view_as=subscriber)
+
+All materials and information is in Spanish.
+
