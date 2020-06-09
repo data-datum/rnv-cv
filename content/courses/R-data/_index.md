@@ -25,7 +25,7 @@ Assistant teacher:
 
 All materials and classes were in Spanish.  
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Propaganda](https://github.com/data-datum/rnv-cv/blob/master/static/files/propaganda_prog_r.jpg)
 
 [Resolución de aprobación Facultad de Ciencias Agrarias](https://github.com/data-datum/rnv-cv/blob/master/static/files/RES_11029-19_Curso_PROGRAMACION_EN_R.pdf)
 
