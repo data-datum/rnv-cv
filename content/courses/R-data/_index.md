@@ -23,7 +23,9 @@ Teachers:
 Assistant teacher:
 * [Patricia Loto](https://twitter.com/patriloto)
 
-All materials and classes were in Spanish.
+All materials and classes were in Spanish.  
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 [Resolución de aprobación Facultad de Ciencias Agrarias](https://github.com/data-datum/rnv-cv/blob/master/static/files/RES_11029-19_Curso_PROGRAMACION_EN_R.pdf)
 
