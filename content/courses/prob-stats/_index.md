@@ -21,7 +21,7 @@ All materials and information is in Spanish.
 
 ### Guías de Trabajos Prácticos
 
-
+  
 [Introducción a R y Rstudio](https://github.com/industrial-prob-stats/material/blob/master/guia1.pdf)
 
 [Variables aleatorias](https://github.com/industrial-prob-stats/material/blob/master/guia02-variables-aleatorias.pdf)
@@ -38,5 +38,4 @@ All materials and information is in Spanish.
 
 [Correlación Simple. Regresión lineal simple](https://github.com/industrial-prob-stats/material/blob/master/guia8.pdf)
 
-
-  
+[Análisis de la Varianza. Diseño de un factor](https://github.com/industrial-prob-stats/material/blob/master/guia9.pdf)
