@@ -7,7 +7,7 @@ menu:
   example:
     name: Introducción a Machine Learning con Tidymodels - Workshop
     weight: 1
-summary: A 4 hours workshop
+summary: A 4 hours workshop at First Latin American Congress of Women in Bioinformatics & Data Science - Virtual Edition 2020 -
 title: Overview
 toc: true
 type: docs
