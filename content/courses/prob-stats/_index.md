@@ -39,3 +39,4 @@ All materials and information is in Spanish.
 [Correlación Simple. Regresión lineal simple](https://github.com/industrial-prob-stats/material/blob/master/guia8.pdf)
 
 [Análisis de la Varianza. Diseño de un factor](https://github.com/industrial-prob-stats/material/blob/master/guia9.pdf)
+  
