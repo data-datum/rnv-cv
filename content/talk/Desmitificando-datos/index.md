@@ -28,7 +28,7 @@ slides:
 summary: A talk about Data & Feminism.
 tags: [data, gender, R]
 title: "Desmitificando los datos: Visualización desde la ciencia de datos con perspectiva de género"
-url_pdf: "files/reinvetartec.pdf"
+url_pdf: "files/rv.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/charla-reinventartec-desmitificando-los-datos-visualizacion-desde-la-ciencia-de-datos-con-perspectiva-de-genero-dot"
 ---
 
