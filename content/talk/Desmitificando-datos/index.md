@@ -4,14 +4,14 @@ address:
   city: -- 
   country: Argentina
   postcode: "94305"
-  region: CA
+  region: CA  
   street: 450 Serra Mall
 all_day: false
 authors: []
 date: "2020-06-25"
 date_end: "2020-06-25"
 event: Academic Theme Conference
-event_url: https://www.eventbrite.es/e/entradas-primer-encuentro-de-r-en-el-nea-81623396777#
+event_url:  
 featured: true
 image:
   caption: 'Image credit: [**R en el Nordeste**]("conv-talk.jpeg")'
@@ -28,8 +28,9 @@ slides:
 summary: A talk about Data & Feminism.
 tags: [data, gender, R]
 title: "Desmitificando los datos: Visualización desde la ciencia de datos con perspectiva de género"
-url_pdf: "files/rv.pdf"
+url_pdf: "files/reinventartec.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/charla-reinventartec-desmitificando-los-datos-visualizacion-desde-la-ciencia-de-datos-con-perspectiva-de-genero-dot"
+url_image: "files/RV-flyer.jpeg" 
 ---
 
 {{% alert note %}}
