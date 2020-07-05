@@ -7,7 +7,7 @@ address:
   region: CA  
   street: 450 Serra Mall
 all_day: false
-authors: []
+authors: [Loto, Patricia; Villafañe, Roxana Noelia; Bercovich, Sabina & Cantaro, Martina]
 date: "2020-06-25"
 date_end: "2020-06-25"
 event: Academic Theme Conference
@@ -30,7 +30,7 @@ tags: [data, gender, R]
 title: "Desmitificando los datos: Visualización desde la ciencia de datos con perspectiva de género"
 url_pdf: "files/reinventartec.pdf"
 url_slides: "https://speakerdeck.com/noelia0618/charla-reinventartec-desmitificando-los-datos-visualizacion-desde-la-ciencia-de-datos-con-perspectiva-de-genero-dot"
-url_image: "files/RV-flyer.jpeg" 
+url_code: "https://github.com/PatriLoto/visualizacion_con_perspectiva_de_genero" 
 ---
 
 {{% alert note %}}
