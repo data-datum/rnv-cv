@@ -21,6 +21,7 @@ All materials and information is in Spanish.
 
 ### Guías de Trabajos Prácticos
 
+#### Todas las guías juntas pueden consultarse en este [link](https://prob-stats.netlify.app/) en formato bookdown.
   
 [Introducción a R y Rstudio](https://github.com/industrial-prob-stats/material/blob/master/guia1.pdf)
 
