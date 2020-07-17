@@ -20,6 +20,6 @@ For more information you can visit our
 
 All materials and information is in Spanish.
 
-![Propaganda] 
+![Propaganda](https://github.com/data-datum/rnv-cv/blob/master/static/files/workshop-propaganda.jpeg?raw=true)
 
 
