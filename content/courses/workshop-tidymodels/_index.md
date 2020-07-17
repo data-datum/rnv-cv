@@ -14,8 +14,12 @@ type: docs
 weight: 1
 ---
   
-For more information you can visit our public repo [Machine learning with Tidymodels](https://github.com/data-datum/ML_tidymodels) 
+For more information you can visit our 
+* [website](https://ml-tidy-wibds.netlify.app/) 
+* public repo [Machine learning with Tidymodels](https://github.com/data-datum/ML_tidymodels) 
 
 All materials and information is in Spanish.
+
+![Propaganda] 
 
 
