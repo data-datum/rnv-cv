@@ -13,10 +13,11 @@ education:
     year: 2012
 email: ""
 interests:
-- Artificial Intelligence 
+- Representation Learning
+- Graphs
 - Machine Learning & Statistics
-- R Programming
-- Python Programming
+- R & Python Programming
+
 name: Roxana Noelia Villafañe
 organizations:
 - name: LEMyP (IQUIBA-NEA) CONICET
